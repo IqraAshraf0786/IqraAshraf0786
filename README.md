@@ -9,7 +9,7 @@ SQA Engineer | Quality Consultant | Test Management | QA Architect | QA Processe
   <a href="https://github.com/IqraAshraf0786">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Role-Senior_SQA_Engineer-blue?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Role-SQA_Engineer-blue?style=for-the-badge" alt="Role" />
 </p>
 
 ---
