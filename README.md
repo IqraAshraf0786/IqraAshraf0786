@@ -1,5 +1,7 @@
 # Hi there, I'm Iqra Ashraf 👋
 
+SQA Engineer | Quality Consultant | Test Management | QA Architect | QA Processes Specialist
+
 <p align="left">
   <a href="https://www.linkedin.com/in/iqra-ashraf-11689713b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
