@@ -39,15 +39,15 @@ I am an experienced **Software Quality Assurance Engineer** with **8+ years of e
   </tr>
   <tr>
     <td><b>Test & Bug Management</b></td>
-    <td>Azure DevOps, Jira, TestRail, Zephyr</td>
+    <td>PMS, Jira, Redmine</td>
   </tr>
   <tr>
     <td><b>API & Security Inspection</b></td>
-    <td>Postman, Swagger, OWASP ZAP, JMeter, Browser DevTools</td>
+    <td>Postman, Swagger, OWASP ZAP, JMeter</td>
   </tr>
   <tr>
     <td><b>Databases & Version Control</b></td>
-    <td>SQL (PostgreSQL, MySQL), Git, GitHub</td>
+    <td>SQL, Git, GitHub</td>
   </tr>
   <tr>
     <td><b>QA Utilities</b></td>
@@ -57,7 +57,7 @@ I am an experienced **Software Quality Assurance Engineer** with **8+ years of e
 
 ---
 
-### 📊 QA Artifacts & Sample Deliverables
+### 📊 QA Artifacts
 
 | Artifact Type | Description 
 | :--- | :--- 
@@ -71,7 +71,7 @@ I am an experienced **Software Quality Assurance Engineer** with **8+ years of e
 
 1. **Requirement Analysis & Static Testing:** Reviewing user stories and functional specs early in sprints to uncover ambiguities before code implementation.
 2. **Test Scenario & Suite Design:** Drafting modular, edge-case-heavy test suites targeting boundary conditions, compliance constraints, and security risks.
-3. **Execution & Defect Tracking:** Executing test passes, isolating root causes, capturing DOM/API logs, and filing actionable defects in Azure DevOps / Jira.
+3. **Execution & Defect Tracking:** Executing test passes, isolating root causes, capturing DOM/API logs, and filing actionable defects in PMS.
 4. **Regression & Quality Sign-Off:** Re-verifying bug fixes, performing sanity checks on integration environments, and issuing formal QA Sign-off reports.
 
 ---
@@ -79,5 +79,4 @@ I am an experienced **Software Quality Assurance Engineer** with **8+ years of e
 ### 🤝 Connect with Me
 
 - **LinkedIn:** [Iqra Ashraf on LinkedIn](https://www.linkedin.com/in/iqra-ashraf-11689713b/)
-- **GitHub:** [github.com/iqrawah0786-boop](https://github.com/IqraAshraf0786)
-- **Role Target:** Senior SQA Engineer / QA Lead (Manual, Compliance & Automation Integration)
+- **GitHub:** [github.com/IqraAshraf0786](https://github.com/IqraAshraf0786)
