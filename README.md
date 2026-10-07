@@ -2,18 +2,6 @@
 
 SQA Engineer | Quality Consultant | Test Management | QA Architect | QA Processes Specialist
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/iqra-ashraf-11689713b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/IqraAshraf0786">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Role-SQA_Engineer-blue?style=for-the-badge" alt="Role" />
-</p>
-
----
-
 ### 🔬 Senior Software Quality Assurance Engineer | 8+ Years Experience
 
 I am an experienced **Software Quality Assurance Engineer** with **8+ years of expertise** in manual testing, compliance verification, automated testing workflows, and test management. My primary focus is bridging the gap between business requirements and zero-defect delivery across enterprise platforms, financial tools, and AI-driven automation frameworks.
